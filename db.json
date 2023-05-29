@@ -1,0 +1,23 @@
+{
+  "todoList": [
+    {
+      "text": "Test 3",
+      "isDone": false,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$TZw1fO8MqRksL/eeWKQ0Cu8dXN002JoWXqN0mub0C3dXatIJw1Td.",
+      "fullName": "John Doe",
+      "id": 1
+    },
+    {
+      "email": "joe@gmail.com",
+      "password": "$2a$10$hfImyHLo8mTkf4DzsA9pwu8wr1H5YKTjnXukswvRFPf.Xkk9T.DBa",
+      "fullName": "Joe Test",
+      "id": 2
+    }
+  ]
+}
